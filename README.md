@@ -1,5 +1,5 @@
-## Hi there 👋
+## Welcome to my GitHub Profile
 
-I'm a computer science student in Silicon Valley. I'm interested in all aspects of technology, but I've been interested more recently in low level programming and blockchain technology.
+I'm a computer science student. Apparently companies see my degree as something needed in order to apply for their jobs. Ironically, a majority of things I learn relevant to such jobs are through my own side projects. Sometimes, I will post them here on my GitHub profile.
 
-Checkout my personal/business website at [tatesupport.vercel.app](https://tatesupport.vercel.app)
+;)
